@@ -1,0 +1,2985 @@
+Unique values in column 'PassengerId':
+26
+29
+65
+19
+54
+22
+7
+34
+50
+57
+32
+43
+31
+39
+25
+71
+6
+68
+72
+58
+9
+27
+63
+51
+56
+52
+17
+41
+28
+33
+5
+1
+10
+48
+67
+44
+61
+3
+37
+12
+55
+74
+8
+62
+11
+49
+35
+2
+66
+4
+13
+36
+18
+69
+14
+21
+59
+15
+38
+30
+42
+73
+23
+46
+20
+70
+60
+40
+16
+64
+45
+47
+53
+24
+112
+113
+130
+77
+126
+94
+110
+136
+144
+84
+119
+98
+116
+145
+124
+95
+143
+87
+107
+146
+79
+103
+139
+88
+138
+114
+115
+96
+104
+120
+89
+128
+85
+106
+111
+142
+100
+105
+131
+108
+132
+123
+127
+101
+83
+141
+80
+134
+76
+102
+92
+118
+75
+78
+125
+140
+137
+135
+122
+129
+81
+82
+97
+133
+90
+117
+121
+99
+86
+109
+93
+147
+91
+148
+191
+222
+155
+167
+198
+196
+184
+188
+202
+149
+190
+212
+187
+201
+203
+157
+181
+161
+193
+215
+221
+158
+178
+150
+174
+170
+209
+208
+207
+153
+185
+219
+214
+197
+177
+179
+168
+218
+210
+205
+220
+192
+213
+156
+160
+206
+200
+182
+186
+171
+166
+199
+154
+162
+164
+176
+175
+163
+172
+216
+173
+194
+165
+180
+195
+151
+159
+217
+189
+204
+183
+152
+169
+211
+270
+293
+243
+278
+296
+277
+287
+237
+241
+228
+274
+262
+264
+229
+275
+232
+227
+268
+255
+258
+266
+271
+234
+239
+279
+236
+253
+276
+246
+226
+242
+248
+257
+235
+250
+252
+224
+254
+247
+294
+225
+249
+283
+292
+295
+288
+280
+290
+260
+269
+265
+244
+245
+233
+230
+272
+289
+286
+238
+223
+256
+291
+284
+231
+251
+259
+282
+285
+240
+263
+281
+267
+261
+273
+367
+348
+299
+347
+330
+325
+343
+326
+363
+369
+370
+365
+342
+320
+316
+353
+341
+346
+304
+307
+319
+328
+349
+368
+361
+364
+356
+332
+301
+306
+324
+318
+333
+339
+309
+345
+323
+352
+303
+337
+362
+355
+322
+334
+331
+321
+327
+344
+360
+329
+359
+308
+305
+302
+314
+298
+335
+310
+313
+315
+350
+351
+312
+338
+297
+358
+300
+354
+311
+366
+336
+317
+357
+340
+418
+442
+415
+385
+414
+427
+399
+406
+421
+439
+388
+412
+417
+420
+378
+376
+395
+386
+402
+413
+443
+424
+407
+389
+397
+430
+384
+405
+434
+404
+377
+375
+419
+423
+403
+411
+441
+392
+381
+383
+379
+440
+429
+435
+382
+431
+373
+390
+437
+371
+380
+400
+432
+428
+433
+422
+426
+391
+408
+410
+374
+372
+393
+436
+438
+401
+425
+409
+444
+387
+396
+416
+398
+394
+474
+502
+486
+487
+463
+513
+516
+450
+496
+488
+455
+466
+447
+446
+459
+509
+453
+499
+498
+511
+462
+515
+449
+461
+485
+500
+452
+501
+490
+464
+497
+460
+448
+517
+481
+467
+451
+471
+454
+473
+478
+482
+491
+492
+512
+480
+514
+507
+468
+477
+465
+518
+508
+503
+495
+504
+506
+475
+505
+493
+472
+470
+457
+445
+494
+479
+510
+483
+476
+489
+484
+456
+458
+469
+541
+558
+564
+588
+530
+532
+551
+529
+570
+555
+561
+586
+562
+589
+554
+574
+546
+577
+585
+592
+519
+539
+538
+556
+521
+550
+537
+575
+548
+557
+563
+528
+581
+540
+552
+590
+559
+535
+567
+580
+573
+587
+576
+543
+544
+591
+560
+520
+525
+553
+536
+565
+549
+524
+568
+579
+533
+583
+547
+542
+523
+582
+545
+534
+578
+566
+569
+522
+527
+571
+584
+531
+572
+526
+656
+602
+635
+624
+600
+638
+650
+629
+662
+595
+596
+621
+642
+665
+610
+608
+661
+637
+649
+599
+646
+632
+623
+593
+644
+659
+654
+611
+641
+653
+628
+636
+618
+655
+614
+664
+658
+631
+639
+622
+657
+615
+605
+645
+634
+606
+604
+652
+603
+613
+607
+594
+598
+601
+626
+620
+651
+627
+648
+609
+663
+643
+597
+616
+617
+630
+640
+660
+633
+666
+647
+612
+625
+619
+730
+705
+720
+736
+724
+677
+693
+691
+734
+706
+737
+696
+700
+686
+699
+703
+704
+713
+702
+694
+712
+675
+738
+726
+671
+678
+714
+718
+719
+697
+735
+673
+683
+731
+682
+688
+715
+668
+710
+716
+740
+689
+711
+732
+684
+729
+727
+687
+722
+672
+679
+670
+681
+733
+692
+701
+695
+723
+708
+690
+709
+680
+685
+674
+676
+717
+721
+707
+725
+728
+698
+667
+669
+739
+752
+766
+779
+768
+773
+814
+760
+790
+756
+744
+789
+754
+796
+769
+813
+742
+794
+743
+748
+806
+741
+784
+797
+755
+749
+761
+800
+804
+746
+762
+795
+777
+776
+772
+747
+792
+775
+803
+753
+801
+774
+778
+807
+750
+785
+745
+810
+763
+805
+765
+780
+767
+782
+791
+809
+759
+811
+771
+764
+812
+783
+781
+799
+802
+770
+793
+798
+787
+788
+757
+808
+751
+786
+758
+847
+831
+857
+823
+858
+830
+853
+844
+889
+876
+828
+845
+880
+843
+852
+820
+854
+883
+882
+856
+891
+861
+825
+817
+866
+833
+865
+859
+849
+890
+834
+816
+818
+874
+836
+870
+871
+838
+815
+867
+850
+819
+822
+841
+846
+863
+826
+855
+879
+872
+829
+886
+884
+869
+821
+875
+827
+842
+860
+840
+864
+877
+881
+868
+878
+851
+824
+848
+885
+832
+862
+873
+888
+887
+837
+839
+835
+Unique values in column 'Survived':
+0
+1
+Unique values in column 'Pclass':
+1
+3
+2
+Unique values in column 'Name':
+Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)
+Skoog, Master. Harald
+Icard, Miss. Amelie
+O'Driscoll, Miss. Bridget
+Jenkin, Mr. Stephen Curnow
+Todoroff, Mr. Lalio
+Goodwin, Miss. Lillian Amy
+Saundercock, Mr. William Henry
+Rice, Master. Eugene
+Lennon, Mr. Denis
+Nicola-Yarred, Miss. Jamila
+Laroche, Miss. Simonne Marie Anne Andree
+Rogers, Mr. William John
+Kink, Mr. Vincenz
+Woolner, Mr. Hugh
+Palsson, Master. Gosta Leonard
+Ostby, Mr. Engelhart Cornelius
+Williams, Mr. Charles Eugene
+Arnold-Franchi, Mrs. Josef (Josefine Franchi)
+McGowan, Miss. Anna "Annie"
+O'Dwyer, Miss. Ellen "Nellie"
+Harris, Mr. Henry Birkhardt
+Andersson, Mr. Anders Johan
+Uruchurtu, Don. Manuel E
+Andersson, Miss. Erna Alexandra
+Vander Planke, Miss. Augusta Maria
+Rugg, Miss. Emily
+Cumings, Mrs. John Bradley (Florence Briggs Thayer)
+Heikkinen, Miss. Laina
+Bonnell, Miss. Elizabeth
+Fortune, Mr. Charles Alexander
+Goodwin, Master. William Frederick
+Hood, Mr. Ambrose Jr
+Sandstrom, Miss. Marguerite Rut
+Glynn, Miss. Mary Agatha
+Ahlin, Mrs. Johan (Johanna Persdotter Larsson)
+Nye, Mrs. (Elizabeth Ramell)
+Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)
+Nasser, Mrs. Nicholas (Adele Achem)
+Moran, Mr. James
+Vestrom, Miss. Hulda Amanda Adolfina
+McCarthy, Mr. Timothy J
+Wheadon, Mr. Edward H
+Mamee, Mr. Hanna
+Samaan, Mr. Youssef
+Chronopoulos, Mr. Apostolos
+Harper, Mrs. Henry Sleeper (Myna Haxtun)
+Sirayanian, Mr. Orsen
+Braund, Mr. Owen Harris
+Devaney, Miss. Margaret Delia
+Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)
+Hewlett, Mrs. (Mary D Kingcome) 
+Palsson, Miss. Torborg Danira
+Novel, Mr. Mansouer
+Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)
+Allen, Mr. William Henry
+Crease, Mr. Ernest James
+Emir, Mr. Farred Chehab
+Kraeff, Mr. Theodor
+Nosworthy, Mr. Richard Cater
+West, Miss. Constance Mirium
+Spencer, Mrs. William Augustus (Marie Eugenie)
+Futrelle, Mrs. Jacques Heath (Lily May Peel)
+Sloper, Mr. William Thompson
+Holverson, Mr. Alexander Oskar
+Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)
+Masselmani, Mrs. Fatima
+Stewart, Mr. Albert A
+Panula, Master. Juha Niilo
+Beesley, Mr. Lawrence
+Meyer, Mr. Edgar Joseph
+Cann, Mr. Ernest Charles
+Moubarek, Master. Gerios
+Fynney, Mr. Joseph J
+Slocovski, Mr. Selman Francis
+Salkjelsvik, Miss. Anna Kristine
+McDermott, Miss. Brigdet Delia
+Chaffee, Mr. Herbert Fuller
+Baxter, Mr. Quigg Edmond
+Fortune, Miss. Mabel Helen
+Hickman, Mr. Stanley George
+Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)
+Webber, Miss. Susan
+Moss, Mr. Albert Johan
+Boulos, Mrs. Joseph (Sultana)
+Goldschmidt, Mr. George B
+Futrelle, Mr. Jacques Heath
+Caldwell, Master. Alden Gates
+Doling, Mrs. John T (Ada Julia Bone)
+Nasser, Mr. Nicholas
+Mionoff, Mr. Stoytcho
+Ford, Mr. William Neal
+Barton, Mr. David John
+White, Mr. Richard Frasar
+Nysten, Miss. Anna Sofia
+Petranec, Miss. Matilda
+Ekstrom, Mr. Johan
+Rekic, Mr. Tido
+Moore, Mr. Leonard Charles
+Dean, Mr. Bertram Frank
+Andersson, Miss. Ellis Anna Maria
+Coelho, Mr. Domingos Fernandeo
+Andersson, Mr. August Edvard ("Wennerstrom")
+Waelens, Mr. Achille
+Richard, Mr. Emile
+Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)
+Burke, Mr. Jeremiah
+Porter, Mr. Walter Chamberlain
+Carrau, Mr. Francisco M
+Nicholls, Mr. Joseph Charles
+Giglio, Mr. Victor
+Peter, Miss. Anna
+Andreasson, Mr. Paul Edvin
+Coxon, Mr. Daniel
+Madsen, Mr. Fridtjof Arne
+Johansson, Mr. Gustaf Joel
+Moen, Mr. Sigurd Hansen
+Attalah, Miss. Malake
+Turpin, Mr. William John Robert
+Osen, Mr. Olaf Elon
+Zabour, Miss. Hileni
+Robins, Mrs. Alexander A (Grace Charity Laury)
+Christmann, Mr. Emil
+Celotti, Mr. Francesco
+Kantor, Mr. Sinai
+Pekoniemi, Mr. Edvard
+Gustafsson, Mr. Anders Vilhelm
+McMahon, Mr. Martin
+Nicola-Yarred, Master. Elias
+Staneff, Mr. Ivan
+Ilett, Miss. Bertha
+Shorney, Mr. Charles Joseph
+Moutal, Mr. Rahamin Haim
+Dowdell, Miss. Elizabeth
+Sheerlinck, Mr. Jan Baptist
+Jussila, Miss. Katriina
+Ford, Miss. Robina Maggie "Ruby"
+White, Mr. Percival Wayland
+Connors, Mr. Patrick
+Petroff, Mr. Pastcho ("Pentcho")
+Drazenoic, Mr. Jozef
+Sobey, Mr. Samuel James Hayden
+Weisz, Mrs. Leopold (Mathilde Francoise Pede)
+Bing, Mr. Lee
+Andrew, Mr. Edgardo Samuel
+Moran, Miss. Bertha
+Greenfield, Mr. William Bertram
+Newsom, Miss. Helen Monypeny
+Bracken, Mr. James H
+Albimona, Mr. Nassef Cassem
+Perkin, Mr. John Henry
+Ali, Mr. Ahmed
+Cameron, Miss. Clear Annie
+Kink-Heilmann, Miss. Luise Gretchen
+Chibnall, Mrs. (Edith Martha Bowerman)
+Smith, Mr. James Clinch
+Mernagh, Mr. Robert
+Olsen, Mr. Ole Martin
+Johanson, Mr. Jakob Alfred
+Williams, Mr. Charles Duane
+Pernot, Mr. Rene
+Sunderland, Mr. Victor Francis
+Becker, Master. Richard F
+Turcin, Mr. Stjepan
+Ling, Mr. Lee
+Madigan, Miss. Margaret "Maggie"
+Cribb, Mr. John Hatfield
+Leonard, Mr. Lionel
+Asplund, Master. Clarence Gustaf Hugo
+Carr, Miss. Helen "Ellen"
+Carbines, Mr. William
+Givard, Mr. Hans Kristensen
+Sage, Miss. Constance Gladys
+Van der hoef, Mr. Wyckoff
+Gilnagh, Miss. Katherine "Katie"
+Kiernan, Mr. Philip
+O'Brien, Mrs. Thomas (Johanna "Hannah" Godfrey)
+Calic, Mr. Jovo
+Goldsmith, Master. Frank John William "Frankie"
+Pinsky, Mrs. (Rosa)
+Cohen, Mr. Gurshon "Gus"
+Hale, Mr. Reginald
+Baumann, Mr. John D
+Panula, Master. Eino Viljami
+Vande Walle, Mr. Nestor Cyriel
+Pears, Mrs. Thomas (Edith Wearne)
+Blank, Mr. Henry
+Yrois, Miss. Henriette ("Mrs Harbeck")
+Youseff, Mr. Gerious
+Honkanen, Miss. Eliina
+Corn, Mr. Harry
+Rood, Mr. Hugh Roscoe
+Bazzani, Miss. Albina
+Byles, Rev. Thomas Roussel Davids
+Meo, Mr. Alfonzo
+Romaine, Mr. Charles Hallace ("Mr C Rolmane")
+Isham, Miss. Ann Elizabeth
+Smiljanic, Mr. Mile
+Brown, Mrs. James Joseph (Margaret Tobin)
+Olsen, Mr. Karl Siegwart Andreas
+Backstrom, Mr. Karl Alfred
+Bateman, Rev. Robert James
+Jacobsohn, Mr. Sidney Samuel
+Bourke, Mr. John
+Andersen-Jensen, Miss. Carla Christine Nielsine
+van Billiard, Mr. Austin Blyler
+Johnson, Miss. Eleanor Ileen
+Rice, Master. Arthur
+Sage, Mr. Frederick
+Sage, Master. Thomas Henry
+Harris, Mr. Walter
+Navratil, Master. Michel M
+Lurette, Miss. Elise
+Navratil, Mr. Michel ("Louis M Hoffman")
+Bengtsson, Mr. John Viktor
+Skoog, Mrs. William (Anna Bernhardina Karlsson)
+Sivola, Mr. Antti Wilhelm
+Strom, Miss. Telma Matilda
+Watt, Mrs. James (Elizabeth "Bessie" Inglis Milne)
+Lefebre, Master. Henry Forbes
+Klasen, Mr. Klas Albin
+Newell, Miss. Madeleine
+Fahlstrom, Mr. Arne Jonas
+Hosono, Mr. Masabumi
+Tornquist, Mr. William Henry
+Olsson, Mr. Nils Johan Goransson
+Ward, Miss. Anna
+Parrish, Mrs. (Lutie Davis)
+Healy, Miss. Hanora "Nora"
+de Mulder, Mr. Theodore
+Hold, Mr. Stephen
+Graham, Mrs. William Thompson (Edith Junkins)
+Maenpaa, Mr. Matti Alexanteri
+Strom, Mrs. Wilhelm (Elna Matilda Persson)
+Panula, Mr. Ernesti Arvid
+Green, Mr. George Henry
+Persson, Mr. Ernst Ulrik
+Naidenoff, Mr. Penko
+Rice, Master. Eric
+Smith, Mr. Richard William
+Rosblom, Mrs. Viktor (Helena Wilhelmina)
+Harknett, Miss. Alice Phoebe
+Lewy, Mr. Ervin G
+Lobb, Mr. William Arthur
+Cherry, Miss. Gladys
+Thorne, Mrs. Gertrude Maybelle
+Bishop, Mrs. Dickinson H (Helen Walton)
+Asplund, Miss. Lillian Gertrud
+Berglund, Mr. Karl Ivar Sven
+Cairns, Mr. Alexander
+Mellinger, Mrs. (Elizabeth Anne Maidment)
+Stead, Mr. William Thomas
+Asplund, Master. Edvin Rojj Felix
+Natsch, Mr. Charles H
+Dorking, Mr. Edward Arthur
+Stankovic, Mr. Ivan
+Connolly, Miss. Kate
+Nenkoff, Mr. Christo
+de Pelsmaeker, Mr. Alfons
+Haas, Miss. Aloisia
+Beckwith, Mr. Richard Leonard
+Henry, Miss. Delia
+Lefebre, Miss. Mathilde
+Abbott, Mrs. Stanton (Rosa Hunt)
+Andrews, Miss. Kornelia Theodosia
+Levy, Mr. Rene Jacques
+Minahan, Dr. William Edward
+Smith, Mr. Thomas
+Barber, Miss. Ellen "Nellie"
+Attalah, Mr. Sleiman
+Parkes, Mr. Francis "Frank"
+Duane, Mr. Frank
+Bissette, Miss. Amelia
+Coleridge, Mr. Reginald Charles
+Hamalainen, Mrs. William (Anna)
+Mineff, Mr. Ivan
+Collyer, Miss. Marjorie "Lottie"
+Pengelly, Mr. Frederick William
+Taussig, Mr. Emil
+Zabour, Miss. Thamine
+Mellors, Mr. William John
+Larsson, Mr. Bengt Edvin
+Harrison, Mr. William
+Touma, Mrs. Darwis (Hanne Youssef Razi)
+Carter, Rev. Ernest Courtenay
+Leyson, Mr. Robert William Norman
+Harris, Mrs. Henry Birkhardt (Irene Wallach)
+Reeves, Mr. David
+Lindahl, Miss. Agda Thorilda Viktoria
+Lindblom, Miss. Augusta Charlotta
+Murphy, Miss. Katherine "Kate"
+Lovell, Mr. John Hall ("Henry")
+Sjostedt, Mr. Ernst Adolf
+Hoyt, Mr. Frederick Maxfield
+Reed, Mr. James George
+Hunt, Mr. George Henry
+Young, Miss. Marie Grice
+Goldsmith, Mrs. Frank John (Emily Alice Brown)
+Dimic, Mr. Jovan
+Partner, Mr. Austen
+Nysveen, Mr. Johan Hansen
+Dahl, Mr. Karl Edwart
+Wick, Miss. Mary Natalie
+Blackwell, Mr. Stephen Weart
+Nilsson, Miss. Helmina Josefina
+Coutts, Master. William Loch "William"
+Saalfeld, Mr. Adolphe
+Pears, Mr. Thomas Clinton
+Odahl, Mr. Nils Martin
+Moussa, Mrs. (Mantoura Boulos)
+Denkoff, Mr. Mitto
+Fleming, Miss. Margaret
+Dennis, Mr. Samuel
+Collander, Mr. Erik Gustaf
+Vander Planke, Mr. Leo Edmondus
+Fox, Mr. Stanley Hubert
+Moraweck, Dr. Ernest
+Hart, Mr. Benjamin
+Jermyn, Miss. Annie
+Warren, Mrs. Frank Manley (Anna Sophia Atkinson)
+Graham, Mr. George Edward
+Hendekovic, Mr. Ignjac
+Hanna, Mr. Mansour
+Williams, Mr. Howard Hugh "Harry"
+Elias, Mr. Tannous
+Hays, Miss. Margaret Bechstein
+Keane, Miss. Nora A
+Lahtinen, Mrs. William (Anna Sylfven)
+Kelly, Miss. Anna Katherine "Annie Kate"
+O'Brien, Mr. Thomas
+Ball, Mrs. (Ada E Hall)
+Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)
+Sage, Mr. George John Jr
+Mockler, Miss. Helen Mary "Ellie"
+Navratil, Master. Edmond Roger
+Ryerson, Miss. Emily Borie
+Johnson, Mr. William Cahoone Jr
+Arnold-Franchi, Mr. Josef
+Fortune, Miss. Alice Elizabeth
+McGovern, Miss. Mary
+Adahl, Mr. Mauritz Nils Martin
+Sedgwick, Mr. Charles Frederick Waddington
+Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)
+Abelson, Mr. Samuel
+Aubart, Mme. Leontine Pauline
+McCoy, Mr. Bernard
+Davison, Mrs. Thomas Henry (Mary E Finck)
+Asim, Mr. Adola
+Hippach, Miss. Jean Gertrude
+Baxter, Mrs. James (Helene DeLaudeniere Chaput)
+Barbara, Mrs. (Catherine David)
+Vanden Steen, Mr. Leo Peter
+Williams-Lambert, Mr. Fletcher Fellows
+Allison, Master. Hudson Trevor
+Yousif, Mr. Wazli
+Frauenthal, Mrs. Henry William (Clara Heinsheimer)
+del Carlo, Mr. Sebastiano
+Slayter, Miss. Hilda Mary
+Skoog, Mr. Wilhelm
+Francatelli, Miss. Laura Mabel
+Kantor, Mrs. Sinai (Miriam Sternin)
+Funk, Miss. Annie Clemmer
+Burns, Miss. Elizabeth Margaret
+Allison, Miss. Helen Loraine
+McCoy, Miss. Agnes
+Danoff, Mr. Yoto
+Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)
+Smith, Miss. Marion Elsie
+Brown, Miss. Amelia "Mildred"
+Bowerman, Miss. Elsie Edith
+Van Impe, Miss. Catharina
+Bjornstrom-Steffansson, Mr. Mauritz Hakan
+Palsson, Miss. Stina Viola
+Richards, Mrs. Sidney (Emily Hocking)
+Lefebre, Miss. Ida
+Oreskovic, Miss. Marija
+Harder, Mr. George Achilles
+Holverson, Mrs. Alexander Oskar (Mary Aline Towner)
+Thorneycroft, Mrs. Percival (Florence Kate White)
+Betros, Mr. Tannous
+Cunningham, Mr. Alfred Fleming
+Buss, Miss. Kate
+Kvillner, Mr. Johan Henrik Johannesson
+Olsson, Miss. Elina
+Birkeland, Mr. Hans Martin Monsen
+Widener, Mr. Harry Elkins
+Ringhini, Mr. Sante
+Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)
+Lehmann, Miss. Bertha
+Charters, Mr. David
+Silven, Miss. Lyyli Karoliina
+Reynaldo, Ms. Encarnacion
+Rosblom, Mr. Viktor Richard
+Beavan, Mr. William Thomas
+Sundman, Mr. Johan Julian
+Newell, Miss. Marjorie
+Meyer, Mrs. Edgar Joseph (Leila Saks)
+McKane, Mr. Peter David
+Silvey, Mr. William Baird
+Hart, Mrs. Benjamin (Esther Ada Bloomfield)
+Trout, Mrs. William H (Jessie L)
+Phillips, Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall")
+Davies, Mr. Charles Henry
+Sadlier, Mr. Matthew
+Meek, Mrs. Thomas (Annie Louise Rowley)
+Louch, Mrs. Charles Alexander (Alice Adelaide Slow)
+Gustafsson, Mr. Johan Birger
+Hakkarainen, Mr. Pekka Pietari
+Widegren, Mr. Carl/Charles Peter
+Adams, Mr. John
+Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)
+Wiseman, Mr. Phillippe
+Fortune, Mr. Mark
+Jussila, Miss. Mari Aina
+Goodwin, Master. Sidney Leonard
+Jansson, Mr. Carl Olof
+Niskanen, Mr. Juha
+Tikkanen, Mr. Juho
+Wiklund, Mr. Jakob Alfred
+Gustafsson, Mr. Karl Gideon
+Carter, Mr. William Ernest
+Nakid, Miss. Maria ("Mary")
+Richards, Master. William Rowe
+Hampe, Mr. Leon
+Johansson, Mr. Erik
+Bidois, Miss. Rosalie
+Plotcharsky, Mr. Vasil
+Petterson, Mr. Johan Emil
+Gale, Mr. Shadrach
+Carter, Miss. Lucile Polk
+Pickard, Mr. Berk (Berk Trembisky)
+Drew, Mrs. James Vivian (Lulu Thorne Christian)
+Hart, Mr. Henry
+Minahan, Miss. Daisy E
+Matthews, Mr. William John
+Kallio, Mr. Nikolai Erland
+Gheorgheff, Mr. Stanio
+Flynn, Mr. James
+Pain, Dr. Alfred
+Clarke, Mrs. Charles V (Ada Maria Winfield)
+Ford, Miss. Doolina Margaret "Daisy"
+Zimmerman, Mr. Leo
+Sdycoff, Mr. Todor
+Landergren, Miss. Aurora Adelia
+Goodwin, Master. Harold Victor
+Hagland, Mr. Ingvald Olai Olsen
+Foreman, Mr. Benjamin Laventall
+Keefe, Mr. Arthur
+Johannesen-Bratthammer, Mr. Bernt
+Seward, Mr. Frederic Kimber
+Eustis, Miss. Elizabeth Mussey
+McGough, Mr. James Robert
+Lemore, Mrs. (Amelia Milley)
+Kent, Mr. Edward Austin
+Rothschild, Mrs. Martin (Elizabeth L. Barrett)
+Strandberg, Miss. Ida Sofia
+Millet, Mr. Francis Davis
+Webber, Mr. James
+Gee, Mr. Arthur H
+Hagland, Mr. Konrad Mathias Reiersen
+Artagaveytia, Mr. Ramon
+Campbell, Mr. William
+Allison, Mrs. Hudson J C (Bessie Waldo Daniels)
+Peduzzi, Mr. Joseph
+Laitinen, Miss. Kristina Sofia
+Jerwan, Mrs. Amin S (Marie Marthe Thuillard)
+Jalsevac, Mr. Ivan
+Renouf, Mr. Peter Henry
+Maisner, Mr. Simon
+Somerton, Mr. Francis William
+Lang, Mr. Fang
+Svensson, Mr. Olof
+Molson, Mr. Harry Markland
+Shellard, Mr. Frederick William
+Goldenberg, Mr. Samuel L
+Bishop, Mr. Dickinson H
+Walker, Mr. William Anderson
+Bradley, Mr. George ("George Arthur Brayton")
+Canavan, Miss. Mary
+Smart, Mr. John Montgomery
+Lefebre, Miss. Jeannie
+Maioni, Miss. Roberta
+Yousseff, Mr. Gerious
+Quick, Mrs. Frederick Charles (Jane Richards)
+Coleff, Mr. Satio
+Penasco y Castellana, Mr. Victor de Satode
+Coutts, Master. Eden Leslie "Neville"
+Braund, Mr. Lewis Richard
+Hirvonen, Miss. Hildur E
+Peuchen, Major. Arthur Godfrey
+Toomey, Miss. Ellen
+Ryan, Mr. Patrick
+Turkula, Mrs. (Hedwig)
+O'Sullivan, Miss. Bridget Mary
+Cacic, Mr. Luka
+Goncalves, Mr. Manuel Estanslas
+Clifford, Mr. George Quincy
+Frost, Mr. Anthony Wood "Archie"
+Anderson, Mr. Harry
+Scanlan, Mr. James
+Baclini, Miss. Marie Catherine
+Windelov, Mr. Einar
+Dodge, Master. Washington
+O'Connor, Mr. Maurice
+Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)
+Karlsson, Mr. Nils August
+Daly, Mr. Eugene Patrick
+Baclini, Miss. Helene Barbara
+Mellinger, Miss. Madeleine Violet
+West, Mrs. Edwy Arthur (Ada Mary Worth)
+Morley, Mr. William
+Rouse, Mr. Richard Henry
+Stanley, Mr. Edward Roland
+West, Mr. Edwy Arthur
+Milling, Mr. Jacob Christian
+Calic, Mr. Petar
+Olsen, Mr. Henry Margido
+Kenyon, Mrs. Frederick R (Marion)
+Sharp, Mr. Percival James R
+Frolicher-Stehli, Mr. Maxmillian
+Morrow, Mr. Thomas Rowan
+Padro y Manent, Mr. Julian
+Caram, Mrs. Joseph (Maria Elias)
+Risien, Mr. Samuel Beard
+Hart, Miss. Eva Miriam
+Stoytcheff, Mr. Ilia
+Farthing, Mr. John
+Harris, Mr. George
+Rush, Mr. Alfred George John
+Downton, Mr. William James
+Nicholson, Mr. Arthur Ernest
+Hocking, Mr. Richard George
+Quick, Miss. Phyllis May
+Lahoud, Mr. Sarkis
+Goldsmith, Mr. Frank John
+Crosby, Miss. Harriet R
+Thayer, Mrs. John Borland (Marian Longstreth Morris)
+Garside, Miss. Ethel
+Sivic, Mr. Husein
+Murdlin, Mr. Joseph
+O'Brien, Mr. Timothy
+Simmons, Mr. John
+Taussig, Mrs. Emil (Tillie Mandelbaum)
+Stephenson, Mrs. Walter Bertram (Martha Eustis)
+Doharr, Mr. Tannous
+Cacic, Miss. Marija
+Elias, Mr. Joseph Jr
+LeRoy, Miss. Bertha
+Thayer, Mr. John Borland Jr
+Palsson, Mrs. Nils (Alma Cornelia Berglund)
+Jarvis, Mr. John Denzil
+Pavlovic, Mr. Stefo
+Frolicher, Miss. Hedwig Margaritha
+de Messemaeker, Mrs. Guillaume Joseph (Emma)
+Paulner, Mr. Uscher
+Kassem, Mr. Fared
+Rintamaki, Mr. Matti
+Butt, Major. Archibald Willingham
+Andersson, Miss. Sigrid Elisabeth
+Ross, Mr. John Hugo
+Wright, Mr. George
+Patchett, Mr. George
+Farrell, Mr. James
+Jonsson, Mr. Carl
+Robbins, Mr. Victor
+Perreault, Miss. Anne
+Hippach, Mrs. Louis Albert (Ida Sophia Fischer)
+Kelly, Miss. Mary
+Peter, Mrs. Catherine (Catherine Rizk)
+Beane, Mrs. Edward (Ethel Clarke)
+Jussila, Mr. Eiriik
+Appleton, Mrs. Edward Dale (Charlotte Lamson)
+Salonen, Mr. Johan Werner
+Duff Gordon, Lady. (Lucille Christiana Sutherland) ("Mrs Morgan")
+Vovk, Mr. Janko
+Norman, Mr. Robert Douglas
+Taussig, Miss. Ruth
+Douglas, Mr. Walter Donald
+Davies, Mr. Alfred J
+Flynn, Mr. John Irwin ("Irving")
+Davies, Master. John Morgan Jr
+Silvey, Mrs. William Baird (Alice Munger)
+Andersson, Miss. Ingeborg Constanzia
+Christy, Miss. Julie Rachel
+Angle, Mrs. William A (Florence "Mary" Agnes Hughes)
+Beane, Mr. Edward
+Leeni, Mr. Fahim ("Philip Zenni")
+Ohman, Miss. Velin
+Ridsdale, Miss. Lucy
+Gilinski, Mr. Eliezer
+Toufik, Mr. Nakli
+Meanwell, Miss. (Marion Ogden)
+Parr, Mr. William Henry Marsh
+Harper, Mr. Henry Sleeper
+Thorneycroft, Mr. Percival
+Stanley, Miss. Amy Zillah Elsie
+Torber, Mr. Ernst William
+Coleff, Mr. Peju
+Davis, Miss. Mary
+Johnson, Mr. Alfred
+Duff Gordon, Sir. Cosmo Edmund ("Mr Morgan")
+Leinonen, Mr. Antti Gustaf
+Daniel, Mr. Robert Williams
+Brocklebank, Mr. William Alfred
+Frauenthal, Dr. Henry William
+Baclini, Miss. Eugenie
+Sutton, Mr. Frederick
+Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)
+Foo, Mr. Choong
+Simonius-Blumer, Col. Oberst Alfons
+Kirkland, Rev. Charles Leonard
+Herman, Miss. Alice
+Colley, Mr. Edward Pomeroy
+Yasbeck, Mr. Antoni
+Karaic, Mr. Milan
+Chapman, Mr. John Henry
+Becker, Miss. Marion Louise
+Bostandyeff, Mr. Guentcho
+Mitkoff, Mr. Mito
+Van Impe, Mr. Jean Baptiste
+Barkworth, Mr. Algernon Henry Wilson
+Murphy, Miss. Margaret Jane
+Boulos, Mr. Hanna
+Kimball, Mr. Edwin Nelson Jr
+Collyer, Mr. Harvey
+Jensen, Mr. Hans Peder
+Elsbury, Mr. William James
+Hansen, Mr. Henry Damsgaard
+Slabenoff, Mr. Petco
+Newell, Mr. Arthur Webster
+Hegarty, Miss. Hanora "Nora"
+Leitch, Miss. Jessie Wills
+Willey, Mr. Edward
+O'Leary, Miss. Hanora "Norah"
+Hickman, Mr. Lewis
+O'Connell, Mr. Patrick D
+Cor, Mr. Liudevit
+Lindqvist, Mr. Eino William
+Doling, Miss. Elsie
+Harrington, Mr. Charles H
+Panula, Mrs. Juha (Maria Emilia Ojala)
+Longley, Miss. Gretchen Fiske
+Radeff, Mr. Alexander
+Eitemiller, Mr. George Floyd
+Badt, Mr. Mohamed
+Lobb, Mrs. William Arthur (Cordelia K Stanlick)
+Kalvik, Mr. Johannes Halvorsen
+Bourke, Mrs. John (Catherine)
+Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)
+Jardin, Mr. Jose Neto
+Shutes, Miss. Elizabeth W
+Gavey, Mr. Lawrence
+Danbom, Mr. Ernst Gilbert
+Homer, Mr. Harry ("Mr E Haven")
+Stahelin-Maeglin, Dr. Max
+Hickman, Mr. Leonard Mark
+Horgan, Mr. John
+Bowen, Mr. David John "Dai"
+Skoog, Miss. Mabel
+Skoog, Miss. Margit Elizabeth
+Nakid, Mr. Sahid
+Lundahl, Mr. Johan Svensson
+Lindell, Mr. Edvard Bengtsson
+Bourke, Miss. Mary
+Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)
+Sagesser, Mlle. Emma
+Soholt, Mr. Peter Andreas Lauritz Andersen
+Saad, Mr. Khalil
+Lam, Mr. Ali
+Endres, Miss. Caroline Louise
+Barbara, Miss. Saiide
+Moubarek, Master. Halim Gonios ("William George")
+Rommetvedt, Mr. Knud Paust
+Ilmakangas, Miss. Pieta Sofia
+Mullens, Miss. Katherine "Katie"
+Berriman, Mr. William John
+Olsvigen, Mr. Thor Anderson
+Jensen, Mr. Svend Lauritz
+Klaber, Mr. Herman
+Mannion, Miss. Margareth
+Taylor, Mr. Elmer Zebley
+Butler, Mr. Reginald Fenton
+Chapman, Mr. Charles Henry
+Peters, Miss. Katie
+Silverthorne, Mr. Spencer Victor
+Astor, Mrs. John Jacob (Madeleine Talmadge Force)
+Goodwin, Mr. Charles Edward
+Thayer, Mr. John Borland
+Turja, Miss. Anna Sofia
+Wilhelms, Mr. Charles
+Madill, Miss. Georgette Alexandra
+Dick, Mr. Albert Adrian
+Mayne, Mlle. Berthe Antonine ("Mrs de Villiers")
+Cleaver, Miss. Alice
+Chambers, Mr. Norman Campbell
+Ivanoff, Mr. Kanio
+Kelly, Mrs. Florence "Fannie"
+Kelly, Mr. James
+Troutt, Miss. Edwina Celia "Winnie"
+Renouf, Mrs. Peter Henry (Lillian Jefferys)
+Morley, Mr. Henry Samuel ("Mr Henry Marshall")
+Oreskovic, Mr. Luka
+Nankoff, Mr. Minko
+Calderhead, Mr. Edward Pennington
+Ford, Mrs. Edward (Margaret Ann Watson)
+Greenberg, Mr. Samuel
+Hodges, Mr. Henry Price
+Weir, Col. John
+Hassab, Mr. Hammad
+Karun, Miss. Manca
+Davidson, Mr. Thornton
+McEvoy, Mr. Michael
+Brown, Mr. Thomas William Solomon
+Hansen, Mr. Henrik Juul
+Knight, Mr. Robert J
+Gillespie, Mr. William Henry
+Edvardsson, Mr. Gustaf Hjalmar
+Troupiansky, Mr. Moses Aaron
+Panula, Mr. Jaako Arnold
+Lesurer, Mr. Gustave J
+Hassan, Mr. Houssein G N
+Goodwin, Mrs. Frederick (Augusta Tyler)
+Humblen, Mr. Adolf Mathias Nicolai Olsen
+Williams, Mr. Leslie
+Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)
+Mitchell, Mr. Henry Michael
+Laroche, Mr. Joseph Philippe Lemercier
+Larsson, Mr. August Viktor
+Bryhl, Mr. Kurt Arnold Gottfrid
+Cook, Mr. Jacob
+Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)
+Cardeza, Mr. Thomas Drake Martinez
+Fischer, Mr. Eberhard Thelander
+Watson, Mr. Ennis Hastings
+Allen, Miss. Elisabeth Walton
+Johnson, Mr. Malkolm Joackim
+Gallagher, Mr. Martin
+Sawyer, Mr. Frederick Charles
+Harper, Miss. Annie Jessie "Nina"
+Dakic, Mr. Branko
+Slemen, Mr. Richard James
+Pettersson, Miss. Ellen Natalia
+Carter, Master. William Thornton II
+Sinkkonen, Miss. Anna
+Cavendish, Mr. Tyrell William
+Lievens, Mr. Rene Aime
+Myhrman, Mr. Pehr Fabian Oliver Malkolm
+Meyer, Mr. August
+Jensen, Mr. Niels Peder
+McNamee, Mr. Neal
+Johnston, Mr. Andrew G
+Mangan, Miss. Mary
+Dean, Master. Bertram Vere
+Theobald, Mr. Thomas Leonard
+Alexander, Mr. William
+Ryerson, Miss. Susan Parker "Suzette"
+Keane, Mr. Andrew "Andy"
+Moor, Master. Meier
+Chambers, Mrs. Norman Campbell (Bertha Griggs)
+Moran, Mr. Daniel J
+Osman, Mrs. Mara
+Lester, Mr. James
+Hoyt, Mr. William Fisher
+Gaskell, Mr. Alfred
+Vande Velde, Mr. Johannes Joseph
+Elias, Mr. Dibo
+Carter, Mrs. William Ernest (Lucile Polk)
+Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)
+Hocking, Mrs. Elizabeth (Eliza Needs)
+Sjoblom, Miss. Anna Sofia
+Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)
+Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)
+Ibrahim Shawah, Mr. Yousseff
+Connaghton, Mr. Michael
+Andersson, Miss. Ebba Iris Alfrida
+Sage, Miss. Stella Anna
+Thomas, Master. Assad Alexander
+Ponesell, Mr. Martin
+Leader, Dr. Alice (Farnham)
+Collyer, Mrs. Harvey (Charlotte Annie Tate)
+Andrews, Mr. Thomas Jr
+Brewe, Dr. Arthur Jackson
+Crosby, Capt. Edward Gifford
+Abbott, Mr. Rossmore Edward
+Gronnestad, Mr. Daniel Danielsen
+Kilgannon, Mr. Thomas J
+Eklund, Mr. Hans Linus
+Hedman, Mr. Oskar Arvid
+Dantcheff, Mr. Ristiu
+Garfirth, Mr. John
+Hamalainen, Master. Viljo
+Tobin, Mr. Roger
+Bailey, Mr. Percy Andrew
+Hawksford, Mr. Walter James
+Guggenheim, Mr. Benjamin
+Ayoub, Miss. Banoura
+Otter, Mr. Richard
+Wells, Miss. Joan
+Long, Mr. Milton Clyde
+Ali, Mr. William
+Dick, Mrs. Albert Adrian (Vera Gillespie)
+Stranden, Mr. Juho
+Harmer, Mr. Abraham (David Lishin)
+Hogeboom, Mrs. John C (Anna Andrews)
+Rice, Master. George Hugh
+Mack, Mrs. (Mary)
+Carlsson, Mr. August Sigfrid
+Emanuel, Miss. Virginia Ethel
+Marvin, Mr. Daniel Warner
+Barah, Mr. Hanna Assi
+Jonkoff, Mr. Lalio
+Nirva, Mr. Iisakki Antino Aijo
+Herman, Mrs. Samuel (Jane Laver)
+Johansson, Mr. Karl Johan
+Reuchlin, Jonkheer. John George
+Sirota, Mr. Maurice
+McCormack, Mr. Thomas Joseph
+Sage, Miss. Dorothy Edith "Dolly"
+Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)
+Augustsson, Mr. Albert
+van Melkebeke, Mr. Philemon
+Goldenberg, Mrs. Samuel L (Edwiga Grabowska)
+Fry, Mr. Richard
+Svensson, Mr. Johan
+Gustafsson, Mr. Alfred Ossian
+Abbing, Mr. Anthony
+Dahlberg, Miss. Gerda Ulrika
+Compton, Miss. Sara Rebecca
+Vander Cruyssen, Mr. Victor
+Moor, Mrs. (Beila)
+Mudd, Mr. Thomas Charles
+Tomlin, Mr. Ernest Portage
+Montvila, Rev. Juozas
+Alhomaki, Mr. Ilmari Rudolf
+Lemberopolous, Mr. Peter L
+Duran y More, Miss. Asuncion
+Culumovic, Mr. Jeso
+Bystrom, Mrs. (Karolina)
+Allum, Mr. Owen George
+Razi, Mr. Raihed
+Petroff, Mr. Nedelio
+Carter, Mrs. Ernest Courtenay (Lilian Hughes)
+Serepeca, Miss. Augusta
+Roebling, Mr. Washington Augustus II
+Stone, Mrs. George Nelson (Martha Evelyn)
+Johnston, Miss. Catherine Helen "Carrie"
+Mallet, Master. Andre
+Johnson, Master. Harold Theodor
+Flynn, Mr. John
+Aks, Mrs. Sam (Leah Rosen)
+Harper, Rev. John
+Lam, Mr. Len
+Pasic, Mr. Jakob
+Yasbeck, Mrs. Antoni (Selini Alexander)
+Marechal, Mr. Pierre
+Baclini, Mrs. Solomon (Latifa Qurban)
+Gill, Mr. John William
+Sutehall, Mr. Henry Jr
+Richards, Master. George Sibley
+Giles, Mr. Frederick Edward
+Beckwith, Mrs. Richard Leonard (Sallie Monypeny)
+Markun, Mr. Johann
+Andersson, Master. Sigvard Harald Elias
+Lulic, Mr. Nikola
+Hansen, Mr. Claus Peter
+Graham, Miss. Margaret Edith
+Behr, Mr. Karl Howell
+Markoff, Mr. Marin
+Wick, Mrs. George Dennick (Mary Hitchcock)
+Carlsson, Mr. Frans Olof
+Hays, Mrs. Charles Melville (Clara Jennings Gregg)
+Balkic, Mr. Cerin
+Panula, Master. Urho Abraham
+Heininen, Miss. Wendla Maria
+Najib, Miss. Adele Kiamie "Jane"
+Swift, Mrs. Frederick Joel (Margaret Welles Barron)
+Sage, Mr. Douglas Bullen
+Shelley, Mrs. William (Imanita Parrish Hall)
+Skoog, Master. Karl Thorsten
+Lines, Miss. Mary Conover
+Dooley, Mr. Patrick
+Rice, Mrs. William (Margaret Norton)
+Saad, Mr. Amin
+Abelson, Mrs. Samuel (Hannah Wizosky)
+Boulos, Miss. Nourelain
+Laleff, Mr. Kristo
+Chip, Mr. Chang
+Daly, Mr. Peter Denis 
+Mallet, Mr. Albert
+Holm, Mr. John Fredrik Alexander
+Banfield, Mr. Frederick James
+Unique values in column 'Sex':
+female
+male
+Unique values in column 'Age':
+8.0
+7.0
+0.83
+0.92
+0.42
+0.67
+nan
+49.0
+29.0
+42.0
+35.0
+18.0
+39.0
+34.0
+4.0
+45.0
+31.0
+11.0
+58.0
+21.0
+14.0
+22.0
+66.0
+19.0
+3.0
+28.0
+28.5
+2.0
+17.0
+38.0
+27.0
+40.0
+20.0
+32.0
+15.0
+5.0
+55.0
+26.0
+65.0
+16.0
+54.0
+47.0
+37.0
+25.0
+23.0
+14.5
+71.0
+32.5
+59.0
+46.0
+30.0
+33.0
+24.0
+70.5
+9.0
+12.0
+40.5
+44.0
+1.0
+45.5
+36.0
+56.0
+50.0
+51.0
+36.5
+61.0
+55.5
+20.5
+62.0
+41.0
+63.0
+52.0
+23.5
+60.0
+43.0
+64.0
+10.0
+0.75
+48.0
+13.0
+53.0
+80.0
+57.0
+70.0
+24.5
+6.0
+30.5
+34.5
+74.0
+Unique values in column 'SibSp':
+0
+5
+1
+3
+2
+4
+8
+Unique values in column 'Parch':
+0
+5
+1
+2
+3
+4
+6
+Unique values in column 'Ticket':
+345763
+A/4. 39886
+PC 17604
+244373
+C.A. 34651
+345764
+2669
+2926
+347088
+239865
+113783
+PC 17601
+315151
+113788
+PC 17599
+3101281
+330877
+C.A. 31026
+STON/O2. 3101282
+382652
+2649
+2631
+11668
+349909
+S.O.C. 14879
+113803
+349237
+349216
+347077
+14311
+CA 2144
+113572
+2661
+SC/Paris 2123
+17463
+335677
+A/5 21171
+248706
+PC 17605
+347742
+C.A. 24579
+PP 9549
+113509
+248698
+2680
+3101295
+347082
+370371
+330959
+S.C./A.4. 23567
+19950
+A/5. 2151
+PC 17572
+2697
+C.A. 33111
+C.A. 29395
+36973
+113789
+237736
+349253
+2662
+A./5. 2152
+7546
+373450
+S.P. 3464
+330958
+330923
+2651
+PC 17569
+19947
+2677
+350406
+364500
+C.A. 2315
+1601
+350043
+349208
+349241
+C.A. 29178
+W.E.P. 5734
+343276
+C.A. 33112
+7540
+W./C. 6608
+349215
+231945
+PC 17558
+STON/O 2. 3101294
+3101276
+347466
+312991
+A4. 54510
+2668
+7534
+343275
+231919
+348123
+370369
+SOTON/O.Q. 3101307
+PC 17759
+371110
+2627
+SO/C 14885
+365222
+SC/PARIS 2133
+C 17369
+2665
+110465
+374910
+345767
+330932
+A/5. 3337
+248738
+324669
+PC 17593
+347081
+374746
+364516
+113059
+35281
+349249
+11752
+27267
+STON/O2. 3101279
+345779
+370372
+349245
+4136
+347061
+244367
+3101278
+PC 17754
+343120
+SOTON/OQ 392086
+2678
+349207
+228414
+363291
+2628
+367229
+111428
+2699
+11813
+368703
+113505
+F.C.C. 13528
+113776
+28424
+345770
+350404
+220367
+PC 17318
+230080
+PC 17610
+248747
+STON/O 2. 3101280
+SOTON/OQ 392090
+4133
+230136
+347054
+364849
+113767
+370365
+4579
+112277
+LINE
+315153
+3101264
+SOTON/OQ 392089
+315037
+Fa 265302
+W/C 14208
+250653
+349247
+315093
+SOTON/O.Q. 3101311
+PC 17595
+SC/PARIS 2131
+17764
+111240
+350046
+370370
+C.A. 33595
+A/5. 851
+A/5 21174
+35273
+367231
+CA. 2343
+234604
+A.5. 11206
+244310
+A/5 3540
+250646
+S.O.P. 1166
+STON/O2. 3101283
+243847
+PC 17597
+371362
+35851
+347068
+367230
+19877
+C.A. 2673
+370375
+21440
+C.A. 17248
+239853
+349236
+26707
+349233
+112059
+382649
+STON/O 2. 3101275
+110152
+230433
+336439
+113056
+370373
+347071
+A/5. 10482
+SC/Paris 2163
+11967
+237798
+345778
+349239
+349206
+384461
+W./C. 6609
+A/5 21173
+PC 17585
+113514
+370129
+347083
+2694
+362316
+SW/PP 751
+C.A. 29566
+244252
+W./C. 14263
+PC 17760
+345774
+347073
+2650
+A/5. 3336
+113798
+250649
+110413
+C.A. 31921
+347067
+349234
+SCO/W 1585
+250644
+347464
+19943
+237442
+28665
+19928
+PC 17612
+PP 4348
+236171
+PC 17582
+13502
+11751
+PC 17755
+PC 17596
+P/PP 3381
+31418
+14313
+A/5 21172
+349225
+A/5 2466
+16966
+330980
+28551
+7267
+17421
+345364
+36928
+237671
+PC 17477
+2693
+2691
+2626
+248740
+347470
+113510
+PC 17608
+SC/PARIS 2167
+F.C.C. 13529
+2695
+111361
+229236
+SOTON/O.Q. 3101310
+C 7076
+C.A. 37671
+386525
+113784
+19988
+248733
+29011
+PC 17611
+7598
+367226
+226593
+113043
+315088
+244361
+113781
+110813
+349243
+349219
+9234
+345783
+330931
+PC 17485
+250651
+234818
+2647
+PC 17758
+11767
+C 7077
+394140
+2648
+28220
+PC 17757
+28228
+323951
+230434
+C.A. 18723
+113503
+250652
+345769
+A/4. 34244
+28664
+SOTON/O.Q. 392078
+SC 1748
+350407
+349222
+347076
+350052
+3101277
+3101267
+367655
+4137
+364851
+29106
+A/5. 13032
+STON/O 2. 3101274
+244278
+349227
+376564
+28403
+STON/O 2. 3101289
+2653
+347064
+STON/O 2. 3101269
+349254
+312992
+27849
+343095
+240929
+345773
+11765
+341826
+113760
+110564
+STON/O 2. 3101293
+250655
+13507
+350034
+315096
+347080
+315082
+347069
+2003
+SC/AH 3085
+SOTON/OQ 3101317
+26360
+31027
+A/4 45380
+A/5 2817
+350035
+111320
+17464
+A.5. 18509
+C 4001
+17453
+F.C.C. 13531
+C.A. 34260
+234360
+SC/AH Basle 541
+7553
+65303
+19952
+330909
+113051
+2666
+3460
+65306
+13509
+A/S 2816
+113787
+11771
+323592
+364846
+113794
+315089
+A/5 3594
+111427
+349240
+349209
+C.A. 6212
+382651
+4134
+239854
+315086
+113786
+4135
+350060
+PC 17473
+SOTON/OQ 3101316
+65304
+PC 17609
+PC 17603
+33638
+36947
+371060
+SOTON/O.Q. 3101306
+3101298
+113792
+36967
+364506
+36209
+2700
+113807
+364498
+113050
+237565
+367232
+PC 17761
+345572
+226875
+PC 17474
+243880
+29104
+A./5. 3235
+218629
+2690
+349251
+PC 17483
+SOTON/OQ 392082
+11769
+349205
+358585
+12749
+13567
+2686
+STON/O 2. 3101273
+W./C. 14258
+SOTON/O.Q. 392087
+S.W./PP 752
+347085
+372622
+11755
+2908
+2641
+349242
+315084
+2624
+244358
+13049
+STON/O 2. 3101286
+330979
+350417
+3411
+14973
+A/4. 20589
+2689
+13568
+A/4 48871
+14312
+237789
+WE/P 5735
+349252
+2620
+693
+3101296
+SC/PARIS 2146
+350029
+5727
+219533
+364511
+334912
+113796
+237668
+349224
+S.O./P.P. 751
+36963
+347743
+STON/O 2. 3101285
+349214
+13213
+111426
+349221
+349910
+330919
+A/5 3902
+CA. 2314
+31028
+365226
+54636
+349223
+STON/O 2. 3101292
+SOTON/O.Q. 3101305
+349246
+2623
+113804
+11753
+364848
+SC/AH 29037
+13214
+2664
+220845
+29751
+364512
+370377
+27042
+248727
+2659
+8475
+350050
+112052
+349210
+349231
+244270
+113800
+349218
+342826
+19996
+PC 17482
+347062
+348121
+28425
+34218
+4138
+350048
+223596
+36866
+24160
+349912
+312993
+113806
+315094
+349256
+113028
+7545
+239855
+36864
+2672
+35852
+17474
+233639
+350025
+348124
+C.A. 24580
+PC 17475
+349228
+A/5 3536
+12233
+250647
+PC 17476
+239856
+29750
+349201
+234686
+330935
+250643
+350036
+36568
+STON/O2. 3101271
+363592
+236853
+248731
+6563
+F.C. 12750
+28206
+STON/O 2. 3101288
+376566
+112050
+17465
+347087
+8471
+2685
+374887
+16988
+347078
+364850
+29105
+113501
+347074
+250648
+PC 17600
+248723
+349203
+W./C. 6607
+349244
+2687
+12460
+2625
+113773
+345780
+112379
+28213
+392096
+36865
+2674
+SOTON/O.Q. 3101312
+347089
+335097
+29103
+2663
+3101265
+SOTON/O2 3101272
+350047
+349204
+383121
+363294
+350042
+3474
+345781
+S.O./P.P. 3
+29108
+349213
+112053
+2683
+SOTON/OQ 392076
+345777
+STON/O2. 3101290
+695
+17466
+2671
+233866
+SOTON/O2 3101287
+236852
+315090
+392091
+C.A. 5547
+368323
+350026
+C.A./SOTON 34068
+SC/PARIS 2149
+S.C./PARIS 2079
+347468
+2667
+347060
+345765
+349212
+11774
+2629
+315098
+2223
+7552
+370376
+364499
+PC 17756
+315097
+349217
+349248
+349257
+C 7075
+PC 17592
+28134
+367228
+111369
+112058
+19972
+113055
+211536
+392092
+PC 17590
+347063
+Unique values in column 'Fare':
+15.5
+29.125
+9.475
+11.1333
+41.5792
+14.4542
+27.7208
+46.9
+31.275
+7.2292
+83.475
+76.7292
+11.2417
+15.2458
+26.55
+8.05
+82.1708
+8.1583
+7.8792
+8.0292
+8.4583
+71.2833
+7.8542
+17.8
+146.5208
+30.0708
+61.9792
+7.8958
+21.6792
+14.4583
+34.6542
+7.65
+63.3583
+7.1417
+26.2833
+8.6542
+247.5208
+15.0458
+22.3583
+56.4958
+7.7958
+7.7333
+30.6958
+61.3792
+76.2917
+6.4958
+25.4667
+91.0792
+512.3292
+77.9583
+135.6333
+52.5542
+57.9792
+83.1583
+56.9292
+164.8667
+110.8833
+55.4417
+15.7417
+13.7917
+7.5208
+7.6292
+7.4958
+78.2667
+34.0208
+81.8583
+19.9667
+7.8292
+221.7792
+7.0542
+8.4333
+32.3208
+7.7417
+9.4833
+13.4167
+8.5167
+25.9292
+9.8458
+50.4958
+73.5
+39.6875
+31.3875
+18.0
+80.0
+7.25
+16.7
+35.5
+27.75
+7.225
+27.9
+21.075
+21.0
+51.8625
+7.8
+263.0
+13.0
+8.6625
+7.75
+52.0
+53.1
+10.5
+26.0
+16.0
+7.925
+77.2875
+11.5
+9.5
+6.975
+7.7875
+29.0
+7.775
+20.575
+23.0
+36.75
+12.475
+14.5
+9.825
+61.175
+24.15
+7.05
+6.75
+79.2
+9.2167
+34.375
+9.0
+15.85
+47.1
+10.4625
+0.0
+8.4042
+16.1
+33.5
+39.0
+20.525
+15.75
+113.275
+50.0
+12.525
+31.0
+69.55
+22.025
+28.7125
+27.0
+25.925
+15.05
+66.6
+7.3125
+55.0
+18.7875
+8.85
+20.2125
+29.7
+78.85
+12.275
+9.35
+12.875
+86.5
+7.125
+13.5
+20.25
+153.4625
+26.25
+19.5
+7.55
+79.65
+90.0
+133.65
+15.9
+151.55
+69.3
+262.375
+23.25
+35.0
+9.225
+30.5
+75.25
+108.9
+14.0
+28.5
+6.2375
+12.35
+24.0
+134.5
+4.0125
+18.75
+120.0
+6.8583
+227.525
+7.7292
+211.5
+32.5
+12.65
+14.4
+7.875
+55.9
+12.0
+7.0458
+38.5
+49.5042
+15.1
+22.525
+9.8375
+26.2875
+12.2875
+19.2583
+59.4
+89.1042
+7.725
+8.1125
+9.5875
+8.7125
+13.8625
+40.125
+51.4792
+49.5
+106.425
+26.3875
+71.0
+30.0
+93.5
+17.4
+15.0
+39.6
+15.55
+25.5875
+33.0
+65.0
+42.4
+211.3375
+8.1375
+7.7375
+57.0
+9.8417
+10.1708
+8.6833
+23.45
+7.8875
+8.3625
+14.1083
+13.8583
+6.4375
+6.45
+10.5167
+6.95
+37.0042
+39.4
+5.0
+8.3
+Unique values in column 'Cabin':
+B30
+A6
+C123
+C83
+C103
+E46
+G6
+C85
+B28
+C52
+D33
+C23 C25 C27
+F33
+NaN
+B78
+D56
+F E69
+F G73
+B58 B60
+C110
+E31
+E101
+D47
+B86
+D10 D12
+D26
+A5
+F2
+E33
+B4
+A32
+B80
+D15
+B19
+A31
+F4
+A7
+D36
+C2
+C49
+C78
+D7
+A19
+C87
+D35
+C93
+D
+E67
+B77
+B94
+C99
+C125
+B49
+C118
+C128
+C65
+C22 C26
+T
+D37
+B18
+C54
+E36
+C124
+E40
+C91
+E34
+C32
+C7
+B57 B59 B63 B66
+B35
+C106
+E44
+B96 B98
+E10
+C82
+E50
+B79
+D21
+C104
+D20
+C111
+D46
+C30
+B37
+E25
+E63
+A14
+C92
+E12
+E38
+A34
+C95
+B39
+B22
+A16
+B38
+C68
+A10
+C86
+B73
+C70
+C101
+E68
+B41
+A23
+B50
+D48
+A26
+D19
+A20
+D9
+D50
+E58
+C90
+C45
+B51 B53 B55
+E8
+B20
+C62 C64
+F G63
+C126
+B71
+D49
+B5
+E24
+B101
+D45
+E77
+A36
+E121
+B3
+D30
+D17
+C46
+F38
+D11
+D6
+B82 B84
+D28
+E49
+C50
+C148
+B102
+A24
+C47
+B69
+E17
+B42
+Unique values in column 'Embarked':
+Q
+C
+S
+NaN
