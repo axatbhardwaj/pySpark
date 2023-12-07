@@ -1,7 +1,0 @@
--------------countMap-------------------
-{'PassengerId': 418, 'Survived': 2, 'Pclass': 3, 'Name': 418, 'Sex': 2, 'Age': 80, 'SibSp': 7, 'Parch': 8, 'Ticket': 363, 'Fare': 170, 'Cabin': 77, 'Embarked': 3}
--------------countMap-------------------
----------------------------------------survived------------------------------
-Number of male survivors: 0
-Number of female survivors: 152
----------------------------------------survived------------------------------
