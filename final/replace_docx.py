@@ -1,57 +1,46 @@
-#appraoch 2 with bytes and formatting
-
 from docx import Document
 from io import BytesIO
+def find_and_replace(document: Document, target_text: str, replacement_text: str):
+    """
+    Find and replace the specified text in the document.
 
-def find_and_replace_text(doc, target_text, replacement_text):
-    locations = []
-
-    # Iterate through paragraphs
-    for i, paragraph in enumerate(doc.paragraphs):
-        if target_text in paragraph.text:
-            index = paragraph.text.find(target_text)
-            locations.append(f"Paragraph {i + 1}, Index: {index}")
+    Args:
+        document (Document): The document object.
+        target_text (str): The text to be replaced.
+        replacement_text (str): The text to replace the target text with.
+    """
+    for paragraph in document.paragraphs:
+        index = paragraph.text.find(target_text)
+        if index != -1:
             for run in paragraph.runs:
-                if target_text in run.text:
+                run_index = run.text.find(target_text)
+                if run_index != -1:
                     run.text = run.text.replace(target_text, replacement_text)
+                    break
 
-    # Iterate through tables, rows, and cells
-    for i, table in enumerate(doc.tables):
-        for j, row in enumerate(table.rows):
-            for k, cell in enumerate(row.cells):
+    for table in document.tables:
+        for row in table.rows:
+            for cell in row.cells:
                 for paragraph in cell.paragraphs:
-                    if target_text in paragraph.text:
-                        index = paragraph.text.find(target_text)
-                        locations.append(f"Table {i + 1}, Row {j + 1}, Cell {k + 1}, Index: {index}")
+                    index = paragraph.text.find(target_text)
+                    if index != -1:
                         for run in paragraph.runs:
-                            if target_text in run.text:
+                            run_index = run.text.find(target_text)
+                            if run_index != -1:
                                 run.text = run.text.replace(target_text, replacement_text)
+                                break
 
-    return locations
 
-# Replace 'your_document.docx' with the actual path to your DOCX file
 input_docx_file_path = '/home/axat/Downloads/Findal copy copy.docx'
 
-# Open the existing DOCX file as bytes
 with open(input_docx_file_path, 'rb') as file:
     docx_bytes = BytesIO(file.read())
-    doc = Document(docx_bytes)
+    document = Document(docx_bytes)
 
-# Specify the text to find and replace
-target_text = 'sumit'
-replacement_text = 'xzat'
+target_text = 'xzat'
+replacement_text = 'sumit'
 
-# Find the location of the text in the document and replace it
-text_locations = find_and_replace_text(doc, target_text, replacement_text)
+find_and_replace(document, target_text, replacement_text)
 
-# Save the changes to the existing file
 with open(input_docx_file_path, 'wb') as file:
-    doc.save(file)
-
-# Print the locations
-if text_locations:
-    print(f"Locations of '{target_text}':")
-    for location in text_locations:
-        print(location)
-else:
-    print(f"'{target_text}' not found in the document.")
+    document.save(file)
