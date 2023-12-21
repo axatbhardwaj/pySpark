@@ -6,7 +6,7 @@ import re
 
 def find_and_replace_sensitive_info(binary_content, email_formats, credit_card_formats):
     """
-    Find and replace sensitive information (email addresses and credit card numbers) 
+    Find and replace sensitive information (email addresses and credit card numbers)
     in the binary content of a DOCX file.
 
     Args:
@@ -27,7 +27,7 @@ def find_and_replace_sensitive_info(binary_content, email_formats, credit_card_f
             if re.search(email_regex, paragraph.text):
                 paragraph.text = re.sub(email_regex, "changed-email", paragraph.text)
                 count_changes += 1
-        
+
         # Replace credit card numbers
         for card_regex in credit_card_formats:
             if re.search(card_regex, paragraph.text):
@@ -43,7 +43,7 @@ def find_and_replace_sensitive_info(binary_content, email_formats, credit_card_f
                         if re.search(email_regex, paragraph.text):
                             paragraph.text = re.sub(email_regex, "changed-email", paragraph.text)
                             count_changes += 1
-                    
+
                     # Replace credit card numbers
                     for card_regex in credit_card_formats:
                         if re.search(card_regex, paragraph.text):
